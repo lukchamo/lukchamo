@@ -33,7 +33,7 @@ Me apasiona construir productos útiles con tecnología de punta.
 He liderado más de **180 proyectos** en diferentes industrias y he formado equipos que hoy operan con mentalidad **AI-First**.  
 Actualmente, estoy promoviendo una cultura de desarrollo basada en **Vibe Coding**, **Prompt Engineering** y **Workflows Agentic**.
 
-- 👨‍🏫 Mentor en eventos como BarranquiIA
+- 👨‍🏫 Mentor en eventos como Barranqui-IA
 - 🧠 Facilitador de Masterclasses en AI Product Engineering para equipos técnicos
 - 🤖 Experto en herramientas como Claude, Gemini, LangChain, CrewAI, MCP y A2A (Agent to Agent)
 - 🌎 Enfocado en crear soluciones reales, escalables y que mejoren procesos en tiempo récord
@@ -45,7 +45,7 @@ Actualmente, estoy promoviendo una cultura de desarrollo basada en **Vibe Coding
 Además de mi trabajo técnico, participo activamente como mentor, expositor y formador en espacios clave de innovación y tecnología:
 
 - 🤝 Miembro de DOMOS - TRIBU Tech Latam – Espacio exclusivo para líderes tecnológicos de América Latina, orientado al desarrollo mutuo entre pares . 
-- 🎤 Expositor en [TechCaribe](https://www.techcaribe.co/) 2024 – Hablando sobre el futuro del desarrollo AI-First.
+- 🎤 Expositor en [TechCaribe](https://www.techcaribe.co/) 2024 – Hablando sobre el futuro de la gestión documental inteligente. Activos digitales.
 - 💡 Mentor en [Barranqui-IA](https://caribe-ia.com/barranqui-ia) – Acelerando ideas de jóvenes con IA y MVPs funcionales en menos de 72 horas.
 
 ![Miembro de DOMOS - TRIBU Tech Latam](https://img.shields.io/badge/Miembro-DOMOS%20TRIBU%20Tech%20Latam-orange?style=flat&logo=tribu&logoColor=white)
