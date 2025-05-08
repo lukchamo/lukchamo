@@ -1,3 +1,4 @@
+
 # 👋 ¡Hola! Soy Luis Carlos Charris 👨‍💻
 
 Soy fundador de tres startups con enfoque en inteligencia artificial:  
@@ -36,6 +37,7 @@ Actualmente, estoy promoviendo una cultura de desarrollo basada en **Vibe Coding
 En este momento, estoy priorizando mi dominio del inglés con el compromiso de alcanzar fluidez este mismo año. Este proceso hace parte de mi transición hacia oportunidades globales y entornos de alto impacto 🌍.
 
 Además, estoy profundizando en MCP (Model Context Protocol) como el nuevo estándar para la integración contextual de datos en agentes inteligentes, y explorando el poder de A2A (Agent-to-Agent Communication) como parte del futuro del desarrollo distribuido con IA. Estos conceptos están revolucionando cómo construimos productos y flujos de trabajo basados en inteligencia artificial — y yo estoy al frente de esa transformación 🚀.
+
 ---
 
 ## 📈 Misión
