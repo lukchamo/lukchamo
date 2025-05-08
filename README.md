@@ -2,7 +2,7 @@
 # 👋 ¡Hola! Soy Luis Carlos Charris 👨‍💻
 
 Soy fundador de tres startups con enfoque en inteligencia artificial:  
-🚀 **Cooweb** – Fábrica de software con impacto social y pionera en Vibe Coding  
+🚀 **Cooweb** – Fábrica de software con impacto social y enfoque AI-First Learning para jóvenes desarrolladores
 📦 **Kontroll** – Plataforma de logística internacional potenciada con IA  
 📄 **Raudoc** – Gestión documental inteligente con marketplace de agentes AI
 
