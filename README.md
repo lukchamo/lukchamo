@@ -1,5 +1,15 @@
 
-# 👋 ¡Hola! Soy Luis Carlos Charris 👨‍💻
+## 👋 ¡Hola, soy Luis Charris!
+
+**Hello there, fellow `<coders/>`!** 🚀
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-@luiskcharris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiskcharris/)](https://www.linkedin.com/in/luiskcharris/)
+[![GitHub](https://img.shields.io/badge/-lukchamo-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/lukchamo)](https://github.com/lukchamo)
+[![GCP Lover](https://img.shields.io/badge/GCP-Lover-F5BC00?style=flat-square&logo=googlecloud)](https://cloud.google.com/)
+[![AI Powered Developer](https://img.shields.io/badge/AI%20Powered-Developer-blueviolet?style=flat-square&logo=OpenAI)](https://openai.com)
+[![Mentor](https://img.shields.io/badge/Mentor-BarranquiIA-0a9396?style=flat-square)](https://barranquiia.tech/)
 
 Soy fundador de tres startups con enfoque en inteligencia artificial:  
 🚀 **Cooweb** – Fábrica de software con impacto social y enfoque AI-First Learning para jóvenes desarrolladores
