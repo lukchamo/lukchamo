@@ -52,4 +52,4 @@ Impulsar la transformación digital en LATAM con soluciones AI-First, formar des
 
 - LinkedIn: [https://www.linkedin.com/in/luischarris/](https://www.linkedin.com/in/luischarris/)
 - GitHub: [github.com/lukchamo](https://github.com/lukchamo)  
-- Email: luis.c.charris@gmail.com
+- Email: luis.carlos.charris@gmail.com
