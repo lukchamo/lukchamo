@@ -8,8 +8,15 @@
 [![LinkedIn](https://img.shields.io/badge/-@luiskcharris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiskcharris/)](https://www.linkedin.com/in/luiskcharris/)
 [![GitHub](https://img.shields.io/badge/-lukchamo-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/lukchamo)](https://github.com/lukchamo)
 [![GCP Lover](https://img.shields.io/badge/GCP-Lover-F5BC00?style=flat-square&logo=googlecloud)](https://cloud.google.com/)
-[![AI Powered Developer](https://img.shields.io/badge/AI%20Powered-Developer-blueviolet?style=flat-square&logo=OpenAI)](https://openai.com)
-[![Mentor](https://img.shields.io/badge/Mentor-BarranquiIA-0a9396?style=flat-square)](https://barranquiia.tech/)
+![AI Powered Developer](https://img.shields.io/badge/AI%20Powered-Developer-purple)
+![GCP Lover](https://img.shields.io/badge/GCP-Lover-orange)
+![Arquitecto de Workflows Agentic](https://img.shields.io/badge/Arquitecto-Workflows%20Agentic-green)
+![Experto en MCP](https://img.shields.io/badge/Experto-MCP-red)
+![Implementador de A2A](https://img.shields.io/badge/Implementador-A2A-yellow)
+![Facilitador de Vibe Coding](https://img.shields.io/badge/Facilitador-Vibe%20Coding-lightgrey)
+![Formador de Desarrolladores AI-First](https://img.shields.io/badge/Formador-Desarrolladores%20AI--First-blueviolet)
+![Emprendedor Tecnológico](https://img.shields.io/badge/Emprendedor-Tecnol%C3%B3gico-brightgreen)
+![Constructor de MVPs con IA](https://img.shields.io/badge/Constructor-MVPs%20con%20IA-critical)
 
 Soy fundador de tres startups con enfoque en inteligencia artificial:  
 🚀 **Cooweb** – Fábrica de software con impacto social y enfoque AI-First Learning para jóvenes desarrolladores
@@ -28,6 +35,18 @@ Actualmente, estoy promoviendo una cultura de desarrollo basada en **Vibe Coding
 - 🧠 Facilitador de Masterclasses en AI Product Engineering para equipos técnicos
 - 🤖 Experto en herramientas como Claude, Gemini, LangChain, CrewAI, MCP y A2A (Agent to Agent)
 - 🌎 Enfocado en crear soluciones reales, escalables y que mejoren procesos en tiempo récord
+
+---
+
+## 🤝 Comunidad y Divulgación
+
+Además de mi trabajo técnico, participo activamente como mentor, expositor y formador en espacios clave de innovación y tecnología:
+
+- 🎤 Expositor en [TechCaribe](https://www.techcaribe.co/) 2024 – Hablando sobre el futuro del desarrollo AI-First.
+- 💡 Mentor en [Barranqui-IA](https://caribe-ia.com/barranqui-ia) – Acelerando ideas de jóvenes con IA y MVPs funcionales en menos de 72 horas.
+
+![Expositor en TechCaribe](https://img.shields.io/badge/Expositor-TechCaribe-blueviolet?style=flat&logo=eventbrite&logoColor=white)
+![Mentor en Barranqui-IA](https://img.shields.io/badge/Mentor-BarranquiIA-darkgreen?style=flat&logo=github&logoColor=white)
 
 ---
 
